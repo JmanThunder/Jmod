@@ -1,0 +1,6 @@
+name = "Jman's Mod"
+path = "mod/Jmod"
+user_dir = "Jmod"
+replace_path = "history/provinces"
+replace_path = "events"
+replace_path = "decisions"
