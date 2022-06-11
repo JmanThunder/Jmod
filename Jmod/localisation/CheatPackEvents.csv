@@ -1,0 +1,12 @@
+EnableEventCheats_title;Enable Event Cheats;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+EnableEventCheats_desc;Show all event based cheat options, These cheats trigger events or simulate events from the game..;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DisableEventCheats_title;Disable Event Cheats;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+DisableEventCheats_desc;Temporarily hide event based cheat options..;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AmericaCivilWarHistoric_title;American Civil War (Accurate);;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AmericaCivilWarHistoric_desc;Designed for the USA/Continental North American states, Releases the CSA with the states that the game intended it to have, removes slavery from the releasing nation and starts the war.;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AmericaCivilWarOpen_title;American Civil War (Dynamic);;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+AmericaCivilWarOpen_desc;Designed for any other American slave nation. Releases all slave provinces in the Americas as the CSA except your capital and starts you at war.;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UnlockWorldWars_title;Unlock Great & World Wars;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+UnlockWorldWars_desc;Unlocks both great wars and world wars.;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ChinaCivilWarOpen_title;Trigger Taiping Rebellion;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
+ChinaCivilWarOpen_desc;Releases the Heaveanly Kingdom and starts the war.;;;;;;;;;;;;;;x;;;;;;;;;;;;;;
