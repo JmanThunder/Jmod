@@ -1,6 +1,5 @@
-owner = BTN
-controller = BTN
-add_core = BTN
-trade_goods = sulphur
+owner = SLW
+controller = SLW
+add_core = SLW
+trade_goods = fish
 life_rating = 30
-terrain = jungle_hills

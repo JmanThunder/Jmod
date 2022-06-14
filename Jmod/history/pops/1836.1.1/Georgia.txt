@@ -181,43 +181,37 @@
 		religion = jewish
 		size = 690
 	}
-
-	farmers = {
-		culture = south_german
-		religion = catholic
-		size = 500
-	}
 }
 #Pasanauri (76000/19000 POPS)
 1091 = {
 	aristocrats = {
-		culture = persian
+		culture = georgian
 		religion = orthodox
 		size = 200
 	}
 
 	clergymen = {
-		culture = persian
+		culture = georgian
 		religion = orthodox
 		size = 100
 	}
 
 	artisans = {
-		culture = georgian
+		culture = armenian
 		religion = orthodox
 		size = 500
 	}
 
 	soldiers = {
-		culture = persian
+		culture = georgian
 		religion = orthodox
 		size = 100
 	}
 
 	serfs = {
-		culture = persian
+		culture = georgian
 		religion = orthodox
-		size = 12100
+		size = 9100
 	}
 
 	aristocrats = {
@@ -247,7 +241,7 @@
 	farmers = {
 		culture = circassian
 		religion = orthodox
-		size = 2500
+		size = 5500
 	}
 	
 	farmers = {
@@ -275,13 +269,13 @@
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = armenian
 		religion = orthodox
 		size = 50
 	}
 
 	farmers = {
-		culture = georgian
+		culture = armenian
 		religion = orthodox
 		size = 2700
 	}
@@ -359,13 +353,7 @@
 	serfs = {
 		culture = georgian
 		religion = orthodox
-		size = 1625
-	}
-
-	farmers = {
-		culture = georgian
-		religion = orthodox
-		size = 3475
+		size = 3625
 	}
 
 	aristocrats = {

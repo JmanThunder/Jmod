@@ -217,25 +217,25 @@
 	}
 
 	clergymen = {
-		culture = north_andean
+		culture = native_american_minor
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = north_andean
+		culture = native_american_minor
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = north_andean
+		culture = native_american_minor
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = north_andean
+		culture = native_american_minor
 		religion = catholic
 		size = 4700
 	}

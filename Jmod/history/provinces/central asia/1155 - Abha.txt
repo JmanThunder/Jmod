@@ -1,6 +1,5 @@
-owner = NYE
-controller = NYE
-add_core = NYE
+owner = HDJ
+controller = HDJ
 add_core = HDJ
 trade_goods = wool
 terrain = semidesert

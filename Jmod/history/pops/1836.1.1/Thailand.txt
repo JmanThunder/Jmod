@@ -661,51 +661,45 @@
 	}
 
 	aristocrats = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 1425
 	}
 
 	officers = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 75
 	}
 
 	clergymen = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 500
 	}
 
 	artisans = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 2550
 	}
 
 	soldiers = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 525
 	}
 
 	farmers = {
-		culture = thai
-		religion = theravada
-		size = 46250
-	}
-
-	farmers = {
 		culture = shan
 		religion = theravada
-		size = 7000
+		size = 46250
 	}
 
 	slaves = {
 		culture = burmese
 		religion = theravada
-		size = 5000
+		size = 7000
 	}
 }
 #Nan (268000/67000 POPS)
@@ -741,31 +735,31 @@
 	}
 
 	aristocrats = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 425
 	}
 
 	clergymen = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 200
 	}
 
 	artisans = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 1150
 	}
 
 	soldiers = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 250
 	}
 
 	farmers = {
-		culture = thai
+		culture = shan
 		religion = theravada
 		size = 21075
 	}

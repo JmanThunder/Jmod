@@ -39,39 +39,27 @@
 	}
 
 	clergymen = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
-		size = 300
+		size = 700
 	}
 
 	soldiers = {
-		culture = kreol
+		culture = afro_caribbean
 		religion = protestant
 		size = 150
-	}
-	
-	farmers = {
-		culture = kreol
-		religion = protestant
-		size = 3075
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 400
+		size = 13075
 	}
 }
 #Mahdia (4000/1000 POPS)
@@ -159,13 +147,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 8000
-	}
-	
-	farmers = {
-		culture = kreol
-		religion = protestant
-		size = 550
+		size = 8550
 	}
 }
 #Biloka (4000/1000 POPS)

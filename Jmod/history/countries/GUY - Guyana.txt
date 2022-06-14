@@ -1,6 +1,5 @@
 capital = 2240
-primary_culture = kreol
-culture = afro_caribbean
+primary_culture = afro_caribbean
 culture = afro_antillean
 culture = amazonian
 religion = protestant

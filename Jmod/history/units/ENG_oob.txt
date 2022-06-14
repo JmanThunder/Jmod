@@ -41,24 +41,6 @@ PHG = {
 	influence_value = 50
 }
 
-#KEL = {
-#	value = 150
-#	level = 4
-#	influence_value = 50
-#}
-
-#TER = {
-#	value = 150
-#	level = 4
-#	influence_value = 50
-#}
-
-#KED = {
-#	value = 150
-#	level = 4
-#	influence_value = 50
-#}
-
 BUR = {
 	value = 125
 	level = 5
@@ -135,7 +117,7 @@ BHR = {
 ABU = {
 	value = 50
 	level = 5
-	influence_value = 50
+	influence_value = 0
 }
 OMA = {
 	value = 100
@@ -221,11 +203,6 @@ MSK = {
 	level = 5
 	influence_value = 100
 }
-JAM = {
-	value = 150
-	level = 5
-	influence_value = 25
-}
 
 #Other
 COL = {				#Columbia if released
@@ -271,6 +248,11 @@ BIK = {
 	influence_value = 0
 }
 BHO = {
+	value = 125
+	level = 5
+	influence_value = 0
+}
+REW = {
 	value = 125
 	level = 5
 	influence_value = 0

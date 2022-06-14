@@ -1,4 +1,4 @@
-capital = 909
+capital = 908
 primary_culture = bedouin
 culture = mashriqi
 religion = sunni

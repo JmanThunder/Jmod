@@ -49,7 +49,7 @@ army = {
 }
 
 army = {
-	location = 1135 #Bushire
+	location = 1136 #Bushire
 	name = "Southern Army"
 	regiment = {
 		name= "2. Nezam-Atlin"
@@ -89,13 +89,13 @@ army = {
 	regiment = {
 		name= "3. Nezam"
 		type = infantry
-		home = 1148
+		home = 1142
 	}
 
 	regiment = {
 		name= "4. Nezam"
 		type = infantry
-		home = 1129
+		home = 1141
 	}
 
 

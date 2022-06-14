@@ -158,7 +158,7 @@
 	farmers = {
 		culture = azerbaijani
 		religion = shiite
-		size = 9225
+		size = 7225
 	}
 
 	aristocrats = {
@@ -188,7 +188,7 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 14875
+		size = 11875
 	}
 
 	aristocrats = {
@@ -218,7 +218,7 @@
 	farmers = {
 		culture = kurdish
 		religion = shiite
-		size = 6250
+		size = 7250
 	}
 
 	aristocrats = {
@@ -248,7 +248,7 @@
 	farmers = {
 		culture = kurdish
 		religion = sunni
-		size = 7925
+		size = 11925
 	}
 	
 	farmers = {
@@ -322,7 +322,7 @@
 	farmers = {
 		culture = azerbaijani
 		religion = sunni
-		size = 5575
+		size = 15575
 	}
 
 	aristocrats = {
@@ -382,7 +382,7 @@
 	farmers = {
 		culture = kurdish
 		religion = sunni
-		size = 16425
+		size = 6425
 	}
 	
 	farmers = {
@@ -394,81 +394,81 @@
 #Mahabad (200000/50000 POPS)
 1111 = {
 	aristocrats = {
-		culture = kurdish
-		religion = sunni
+		culture = azerbaijani
+		religion = shiite
 		size = 650
 	}
 	
 	aristocrats = {
-		culture = azerbaijani
-		religion = shiite
+		culture = kurdish
+		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kurdish
-		religion = sunni
-		size = 325
-	}
-	
-	clergymen = {
 		culture = azerbaijani
 		religion = shiite
 		size = 325
 	}
-
-	artisans = {
+	
+	clergymen = {
 		culture = kurdish
 		religion = sunni
-		size = 750
+		size = 325
+	}
+
+	artisans = {
+		culture = azerbaijani
+		religion = shiite
+		size = 1600
 	}
 
 	soldiers = {
-		culture = kurdish
-		religion = sunni
+		culture = azerbaijani
+		religion = shiite
 		size = 1100
 	}
 
 	farmers = {
-		culture = kurdish
-		religion = sunni
-		size = 24425
+		culture = azerbaijani
+		religion = shiite
+		size = 28425
 	}
 
 	aristocrats = {
-		culture = kurdish
-		religion = shiite
+		culture = azerbaijani
+		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = kurdish
-		religion = shiite
+		culture = azerbaijani
+		religion = sunni
 		size = 150
 	}
 
 	artisans = {
 		culture = azerbaijani
-		religion = shiite
+		religion = sunni
 		size = 900
 	}
 
 	soldiers = {
-		culture = kurdish
-		religion = shiite
+		culture = azerbaijani
+		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = kurdish
-		religion = shiite
-		size = 10475
+		culture = azerbaijani
+		religion = sunni
+		size = 13475
 	}
 	
 	farmers = {
-		culture = azerbaijani
-		religion = shiite
-		size = 10000
+		culture = kurdish
+		religion = sunni
+		size = 3000
 	}
 }
 #Ardabil (280000/70000 POPS)
@@ -790,7 +790,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 6850
+		size = 26850
 	}
 
 	clergymen = {
@@ -832,7 +832,7 @@
 	farmers = {
 		culture = kurdish
 		religion = shiite
-		size = 31875
+		size = 11875
 	}
 
 	aristocrats = {
@@ -936,31 +936,31 @@
 	}
 
 	aristocrats = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 75
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 200
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 50
 	}
 
 	farmers = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 3625
 	}
@@ -968,13 +968,13 @@
 #Khorramabad (64000/16000 POPS)
 1120 = {
 	aristocrats = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 300
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 150
 	}
@@ -986,21 +986,15 @@
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 1100
 	}
 
 	farmers = {
-		culture = lurish
-		religion = shiite
-		size = 13950
-	}
-
-	farmers = {
 		culture = persian
 		religion = shiite
-		size = 1050
+		size = 13950
 	}
 }
 #Ajami Region (888000)
@@ -1056,7 +1050,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = forest_bantu #african_minor
 		religion = animist
 		size = 6000
 	}
@@ -1156,25 +1150,25 @@
 	}
 
 	clergymen = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	artisans = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 3000
 	}
 
 	soldiers = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 125
 	}
 
 	farmers = {
-		culture = azerbaijani
+		culture = persian
 		religion = shiite
 		size = 7575
 	}
@@ -1352,7 +1346,7 @@
 	}
 	
 	slaves = {
-		culture = forest_bantu
+		culture = forest_bantu #african_minor
 		religion = animist
 		size = 9000
 	}
@@ -1630,101 +1624,95 @@
 #Dezful (32000/8000 POPS)
 1133 = {
 	aristocrats = {
-		culture = kurdish
+		culture = mashriqi
 		religion = shiite
 		size = 25
 	}
 
 	clergymen = {
-		culture = kurdish
+		culture = mashriqi
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = kurdish
+		culture = mashriqi
 		religion = shiite
 		size = 100
 	}
 
 	soldiers = {
-		culture = kurdish
+		culture = mashriqi
 		religion = shiite
 		size = 25
 	}
 
 	farmers = {
-		culture = kurdish
+		culture = mashriqi
 		religion = shiite
-		size = 800
+		size = 1800
 	}
 
 	aristocrats = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 100
 	}
 
 	clergymen = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 300
 	}
 
 	soldiers = {
-		culture = lurish
+		culture = persian
 		religion = shiite
 		size = 75
-	}
-
-	farmers = {
-		culture = lurish
-		religion = shiite
-		size = 6475
-	}
-}
-#Shahr-e Kord (32000/8000 POPS)
-1134 = {
-	aristocrats = {
-		culture = lurish
-		religion = shiite
-		size = 150
-	}
-
-	clergymen = {
-		culture = lurish
-		religion = shiite
-		size = 75
-	}
-
-	artisans = {
-		culture = lurish
-		religion = shiite
-		size = 400
-	}
-
-	soldiers = {
-		culture = lurish
-		religion = shiite
-		size = 75
-	}
-
-	farmers = {
-		culture = lurish
-		religion = shiite
-		size = 7275
 	}
 
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 500
+		size = 5475
+	}
+}
+#Shahr-e Kord (32000/8000 POPS)
+1134 = {
+	aristocrats = {
+		culture = persian
+		religion = shiite
+		size = 150
+	}
+
+	clergymen = {
+		culture = persian
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = persian
+		religion = shiite
+		size = 400
+	}
+
+	soldiers = {
+		culture = persian
+		religion = shiite
+		size = 75
+	}
+
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 7275
 	}
 }
 #Fars Region (468000)
@@ -1786,7 +1774,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = forest_bantu #african_minor
 		religion = animist
 		size = 3000
 	}
@@ -2102,7 +2090,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = forest_bantu #african_minor
 		religion = animist
 		size = 2500
 	}
@@ -2376,7 +2364,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = forest_bantu #african_minor
 		religion = animist
 		size = 2000
 	}
@@ -2482,7 +2470,7 @@
 	}
 
 	slaves = {
-		culture = forest_bantu
+		culture = forest_bantu #african_minor
 		religion = animist
 		size = 8000
 	}
@@ -2561,36 +2549,6 @@
 #Bojnurd (56000/14000 POPS)
 1150 = {
 	aristocrats = {
-		culture = kurdish
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = sunni
-		size = 650
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = sunni
-		size = 825
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = sunni
-		size = 7925
-	}
-	
-	aristocrats = {
 		culture = persian
 		religion = shiite
 		size = 100
@@ -2617,7 +2575,7 @@
 	farmers = {
 		culture = persian
 		religion = shiite
-		size = 7550
+		size = 4550
 	}
 
 	aristocrats = {
@@ -2647,7 +2605,7 @@
 	farmers = {
 		culture = turkmen
 		religion = sunni
-		size = 6225
+		size = 8225
 	}
 
 }
@@ -2685,85 +2643,3 @@
 	}
 }
 
-#Hajjiabad
-2643 = {
-	aristocrats = {
-		culture = persian
-		religion = shiite
-		size = 319
-	}
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-	artisans = {
-		culture = persian
-		religion = shiite
-		size = 592
-	}
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 250
-	}
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 6000 
-	}
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3666
-	}
-	soldiers = {
-		culture = persian
-		religion = shiite
-		size = 800
-	}
-	officers = {
-		culture = persian
-		religion = shiite
-		size = 80
-	}
-}
-
-#Sistan
-2638 = {
-	artisans = {
-		culture = persian
-		religion = shiite
-		size = 500
-	}
-	artisans = {
-		culture = pashtun
-		religion = sunni
-		size = 350
-	}
-	bureaucrats = {
-		culture = persian
-		religion = shiite
-		size = 25
-	}
-	clergymen = {
-		culture = persian
-		religion = shiite
-		size = 100
-	}
-	farmers = {
-		culture = persian
-		religion = shiite
-		size = 9000
-	}
-	farmers = {
-		culture = pashtun
-		religion = sunni
-		size = 5950
-	}
-}

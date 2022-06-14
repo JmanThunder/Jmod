@@ -1,7 +1,7 @@
 capital = 657
 primary_culture = romanian
 culture = hungarian
-culture = south_german
+culture = siebenburger
 religion = orthodox
 government = absolute_monarchy
 plurality = 0.0

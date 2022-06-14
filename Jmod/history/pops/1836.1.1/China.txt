@@ -2488,19 +2488,19 @@
 #Chaozhou (3600000/900000 POPS)
 1494 = {
 	aristocrats = {
-		culture = min
+		culture = nanfaren
 		religion = mahayana
 		size = 7400
 	}
 
 	clergymen = {
-		culture = min
+		culture = nanfaren
 		religion = mahayana
 		size = 3725
 	}
 
 	artisans = {
-		culture = min
+		culture = nanfaren
 		religion = mahayana
 		size = 11000
 	}
@@ -2512,7 +2512,7 @@
 	}
 
 	soldiers = {
-		culture = min
+		culture = nanfaren
 		religion = mahayana
 		size = 3000
 	}
@@ -2524,15 +2524,9 @@
 	}
 
 	farmers = {
-		culture = min
-		religion = mahayana
-		size = 440000
-	}
-	
-	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 39475
+		size = 339475
 	}
 
 	aristocrats = {
@@ -2584,7 +2578,7 @@
 	}
 	
 	artisans = {
-		culture = min
+		culture = yue
 		religion = mahayana
 		size = 11000
 	}
@@ -2604,7 +2598,7 @@
 	farmers = {
 		culture = yue
 		religion = mahayana
-		size = 309750
+		size = 449750
 	}
 }
 #Gaozhou (3788000/947000 POPS)
@@ -11963,37 +11957,37 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
+		culture = asian_minor
+		religion = animist
 		size = 5400
 	}
 
 	clergymen = {
-		culture = tibetan
-		religion = gelugpa
+		culture = asian_minor
+		religion = animist
 		size = 2750
 	}
 
 	artisans = {
-		culture = tibetan
-		religion = gelugpa
+		culture = asian_minor
+		religion = animist
 		size = 11000
 	}
 	
 	artisans = {
-		culture = tibetan
-		religion = gelugpa
+		culture = asian_minor
+		religion = animist
 		size = 3500
 	}
 
 	soldiers = {
-		culture = tibetan
-		religion = gelugpa
+		culture = asian_minor
+		religion = animist
 		size = 2700
 	}
 
 	farmers = {
-		culture = yi
+		culture = asian_minor
 		religion = animist
 		size = 220650
 	}
@@ -12023,8 +12017,8 @@
 	}
 	
 	farmers = {
-		culture = tibetan
-		religion = gelugpa
+		culture = yi
+		religion = animist
 		size = 24575
 	}
 
@@ -12874,50 +12868,6 @@
 		culture = nanfaren
 		religion = mahayana
 		size = 383125
-	}
-}
-#San Mun (1684000/421000 POPS)
-3326 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 85
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 45
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 110
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 110
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 25
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3835
 	}
 }
 #Wenzhou (1764000/ 441000 POPS)

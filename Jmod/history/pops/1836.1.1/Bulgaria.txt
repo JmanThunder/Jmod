@@ -404,7 +404,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 19250
+		size = 3250
 	}
 	
 	clergymen = {
@@ -452,7 +452,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 30050
+		size = 46050
 	}
 
 	artisans = {
@@ -570,7 +570,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 20275
+		size = 5275
 	}
 	
 	clergymen = {
@@ -618,7 +618,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 27700
+		size = 42700
 	}
 }
 #Varna (220000/55000 POPS)
@@ -650,7 +650,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 31425
+		size = 26425
 	}
 	
 	aristocrats = {
@@ -704,7 +704,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 30875
+		size = 35875
 	}
 }
 #Rumelia Region (396000)
@@ -1089,7 +1089,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 16250
+		size = 24250
 	}
 	
 	soldiers = {
@@ -1113,7 +1113,7 @@
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 9625 
+		size = 19625 
 	}
 
 	aristocrats = {
@@ -1143,7 +1143,7 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 22100  
+		size = 4100  
 	}
 	
 	aristocrats = {

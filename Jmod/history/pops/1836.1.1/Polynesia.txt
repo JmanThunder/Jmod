@@ -106,39 +106,6 @@
 		size = 140
 	}
 }
-#Phoenix Islands
-3324 = {
-
-	aristocrats = {
-		culture = polynesian
-		religion = animist
-		size = 5
-	}
-
-	clergymen = {
-		culture = polynesian
-		religion = animist
-		size = 5
-	}
-
-	artisans = {
-		culture = polynesian
-		religion = animist
-		size = 10
-	}
-
-	soldiers = {
-		culture = polynesian
-		religion = animist
-		size = 5
-	}
-
-	farmers = {
-		culture = polynesian
-		religion = animist
-		size = 140
-	}
-}
 #Western Polynesia Region (47000)
 #uncolonized in 1836/ruled by the King of Tonga
 #Tonga (13000/3250 POPS)
@@ -146,31 +113,31 @@
 	aristocrats = {
 		culture = polynesian
 		religion = animist
-		size = 75
+		size = 50
 	}
 
 	clergymen = {
 		culture = polynesian
 		religion = animist
-		size = 140
+		size = 75
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = animist
-		size = 250
+		size = 150
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = animist
-		size = 50
+		size = 25
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = animist
-		size = 3350
+		size = 2950
 	}
 }
 #uncolonized in 1836
@@ -399,6 +366,38 @@
 		culture = polynesian
 		religion = animist
 		size = 137
+	}
+}
+#Niue (2000/500 POPS)
+2548 = {
+	aristocrats = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = polynesian
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = polynesian
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = polynesian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = polynesian
+		religion = animist
+		size = 455
 	}
 }
 #Eastern Polynesia Region (39160)

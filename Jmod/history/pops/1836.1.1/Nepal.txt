@@ -87,37 +87,37 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 400
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 225
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 1050
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 200
 	}
 
 	farmers = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 6000
 	}
 
 	slaves = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 15125
 	}
@@ -185,31 +185,31 @@
 	}
 
 	aristocrats = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 350
 	}
 
 	clergymen = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 200
 	}
 
 	artisans = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 950
 	}
 
 	soldiers = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 200
 	}
 
 	slaves = {
-		culture = tibetan
+		culture = asian_minor
 		religion = animist
 		size = 18300
 	}

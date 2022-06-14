@@ -376,7 +376,7 @@
 	aristocrats = {
 		culture = north_german
 		religion = protestant
-		size = 50
+		size = 100
 	}
 	aristocrats = {
 		culture = swiss_french
@@ -613,19 +613,19 @@
 	farmers = {
 		culture = swiss_french
 		religion = catholic
-		size = 11530
+		size = 9530
 	}
 	
 	farmers = {
 		culture = swiss_german
 		religion = protestant
-		size = 1530
+		size = 2530
 	}
 	
 	farmers = {
 		culture = swiss_german
 		religion = catholic
-		size = 3000
+		size = 4000
 	}
 }
 
@@ -723,38 +723,4 @@
 		religion = catholic
 		size = 11135
 	}
-}
-
-#Schaffhausen
-3314 = {
-	aristocrats = {
-		culture = swiss_german
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = swiss_german
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = swiss_german
-		religion = catholic
-		size = 1000
-	}
-
-	soldiers = {
-		culture = swiss_german
-		religion = catholic
-		size = 500
-	}
-
-	farmers = {
-		culture = swiss_german
-		religion = catholic
-		size = 15000
-	}
-
 }

@@ -212,7 +212,7 @@
 	farmers = {
 		culture = albanian
 		religion = orthodox
-		size = 65350
+		size = 161379
 	}
 	soldiers = {
 		culture = greek
@@ -232,6 +232,6 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 21800
+		size = 23799
 	}
 }
