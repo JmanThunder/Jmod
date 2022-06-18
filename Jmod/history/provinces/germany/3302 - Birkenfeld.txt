@@ -1,6 +1,6 @@
-owner = OLD
-controller = OLD
-add_core = OLD
-add_core = GER
-trade_goods = coal
-life_rating = 40
+owner = HAI
+controller = HAI
+add_core = HAI
+trade_goods = coffee
+life_rating = 35
+fort = 1

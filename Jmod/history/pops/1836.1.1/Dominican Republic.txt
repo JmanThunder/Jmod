@@ -35,7 +35,7 @@
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 62375
+		size = 32375
 	}
 
 	clergymen = {
@@ -59,7 +59,22 @@
 	farmers = {
 		culture = afro_caribeno
 		religion = catholic
-		size = 45350
+		size = 35350
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 15550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
 	}
 }
 #La Vega (56000/15000 POPS) #now part of Dominican Republic
@@ -91,7 +106,7 @@
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 30175
+		size = 20175
 	}
 
 	clergymen = {
@@ -117,5 +132,509 @@
 		religion = catholic
 		size = 19575
 	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3333 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
 
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 3017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3334 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 3017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3335 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 3017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3336 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 3017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3337 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 3017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3338 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 3017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 3957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 730
+	}
+}
+3332 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 1517
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 2957
+	}
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 3230
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 4730
+	}
 }

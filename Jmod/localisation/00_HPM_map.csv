@@ -32,12 +32,12 @@ PROV3298;Corumbá;;;;;;;;;;;;;;x
 PROV3299;Taltal;;;;;;;;;;;;;;x
 PROV3300;Eutin;;;;;;;;;;;;;;x
 PROV3301;Rinteln;;;;;;;;;;;;;;x
-PROV3302;Birkenfeld;;;;;;;;;;;;;;x
+PROV3302;Saint-Marc;;;;;;;;;;;;;;x
 PROV3303;Altenburg;;;;;;;;;;;;;;x
 PROV3304;Schleusingen;;;;;;;;;;;;;;x
 PROV3305;Schmalkalden;;;;;;;;;;;;;;x
-PROV3306;Homburg;;;;;;;;;;;;;;x
-PROV3307;Gersfeld;;;;;;;;;;;;;;x
+PROV3306;Gonaïves;;;;;;;;;;;;;;x
+PROV3307;Aux-Cayes;;;;;;;;;;;;;;x
 PROV3308;Munkatsch;;;;;;;;;;;;;;x
 PROV3309;Maria-Theresiopel;;;;;;;;;;;;;;x
 PROV3310;Jablonka;;;;;;;;;;;;;;x
@@ -50,10 +50,10 @@ PROV3316;Kergeulen;;;;;;;;;;;;;;x
 PROV3317;Western Aleutian Islands;;;;;;;;;;;;;;x
 PROV3318;Arlon;;;;;;;;;;;;;;x
 PROV3319;Kikinda;;;;;;;;;;;;;;x
-PROV3320;Kelmis;;;;;;;;;;;;;;x
+PROV3320;Port-de-Paix;;;;;;;;;;;;;;x
 PROV3321;Kosovska Mitrovica;;;;;;;;;;;;;;x
 PROV3322;Thionville;;;;;;;;;;;;;;x
-PROV3325;Rubiás;;;;;;;;;;;;;;x
+PROV3325;Jérémie;;;;;;;;;;;;;;x
 PROV3326;San Mun;;;;;;;;;;;;;;x
 PROV398;Bastogne;;;;;;;;;;;;;;x
 PROV697;Osterode;;;;;;;;;;;;;;x
@@ -96,7 +96,7 @@ PROV1119;Kermanshah;;;;;;;;;;;;;;x
 PROV1117;Sanandaj;;;;;;;;;;;;;;x
 PROV1118;Saqqez;;;;;;;;;;;;;;x
 PROV673;Cahul;;;;;;;;;;;;;;x
-PROV3286;Steinamanger;;;;;;;;;;;;;;;;;;;;;;;x
+PROV3286;Miragoâne;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2638;Zabul;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2622;Bar-le-Duc;;;;;;;;;;;;;;;;;;;;;;;x
 PER_1142;Hormozgan;;;;;;;;;;;;;;;;;;;;;;;x
@@ -435,7 +435,7 @@ PROV2651;Mirny;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2674;Abakan;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2682;Obdorsk;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2646;Surgut;;;;;;;;;;;;;;;;;;;;;;;x
-PROV2690;Akrotiri & Dhekelia;;;;;;;;;;;;;;;;;;;;;;;x
+PROV2690;Fort-Liberté;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2685;Verkhoturye;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2614;Shadrinsk;;;;;;;;;;;;;;;;;;;;;;;x
 PROV2658;Kurgan;;;;;;;;;;;;;;;;;;;;;;;x

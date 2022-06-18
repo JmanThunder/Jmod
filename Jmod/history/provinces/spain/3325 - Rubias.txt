@@ -1,9 +1,8 @@
-owner = CUO
-
-controller = CUO
-add_core = CUO
-add_core = GLC
-
-trade_goods = grain
+vowner = HAI
+controller = HAI
+add_core = HAI
+trade_goods = coffee
 
 life_rating = 35
+
+fort = 1

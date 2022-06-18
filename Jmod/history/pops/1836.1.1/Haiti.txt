@@ -2,40 +2,128 @@
 #Ruled by Haiti 1836
 #Port au Prince (312000/78000 POPS)
 2213 = {
-	aristocrats = {
-		culture = afro_antillean
+
+	capitalists = {
+		culture = north_german
 		religion = catholic
-		size = 825
+		size = 10
+	}
+	capitalists = {
+		culture = saint_domingais
+		religion = catholic
+		size = 7
+	}
+	capitalists = {
+		culture = mulatto
+		religion = catholic
+		size = 2
+	}
+	bureaucrats = {
+		culture = mulatto
+		religion = catholic
+		size = 455
+	}
+	aristocrats = {
+		culture = mulatto
+		religion = catholic
+		size = 1825
 	}
 	
 	officers = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 150
+	}
+	farmers = {
+		culture = mashriqi
+		religion = orthodox
+		size = 1000
+	}
+	officers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 25
+	}
+
+	officers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 250
 	}
 
 	clergymen = {
 		culture = afro_antillean
 		religion = catholic
-		size = 175
+		size = 750
+	}
+
+	clergymen = {
+		culture = saint_domingais
+		religion = catholic
+		size = 275
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = jewish
+		size = 10
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
-		size = 4050
+		size = 14050
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 100
+		size = 25000
 	}
-
+	soldiers = {
+		culture = polish
+		religion = catholic
+		size = 2500
+	}
+	farmers = {
+		culture = vietnamese
+		religion = catholic
+		size = 25
+	}
+	farmers = {
+		culture = armenian
+		religion = coptic
+		size = 31
+	}
+	artisans = {
+		culture = afro_american
+		religion = protestant
+		size = 500
+	}
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1283
+	}
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 68300
+		size = 128300
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 770
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 230
+	}
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 250
 	}
 }
 #Cap Haitien (204000/51000 POPS)
@@ -43,39 +131,79 @@
 	aristocrats = {
 		culture = afro_antillean
 		religion = catholic
-		size = 550
+		size = 1550
 	}
 
-	clergymen = {
+	aristocrats = {
+		culture = mulatto
+		religion = catholic
+		size = 550
+	}
+	bureaucrats = {
 		culture = afro_antillean
+		religion = catholic
+		size = 455
+	}
+	clergymen = {
+		culture = mulatto
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
-		size = 2550
+		size = 5550
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
+		size = 20000
+	}
+	soldiers = {
+		culture = polish
+		religion = catholic
 		size = 200
 	}
+	soldiers = {
+		culture = fon
+		religion = animist
+		size = 5000
+	}
 
+	artisans = {
+		culture = british
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = saint_domingais
+		religion = catholic
+		size = 4000
+	}
 	farmers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 40825
+		size = 75025
 	}
-
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 770
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 230
+	}
 }
 
 #Môle St-Nicolas
 3284 = {
 	clergymen = {
-		culture = afro_antillean
+		culture = mulatto
 		religion = catholic
 		size = 75
 	}
@@ -90,5 +218,468 @@
 		culture = afro_antillean
 		religion = catholic
 		size = 550
+	}
+
+	farmers = {
+		culture = cajun
+		religion = catholic
+		size = 250
+	}	
+}
+3327 = {
+	clergymen = {
+		culture = afro_antillean
+		religion = catholic
+		size = 75
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 7500
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1550
+	}
+	
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 250
+	}
+}
+3328 = {
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 175
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 10500
+	}
+	
+	artisans = {
+		culture = mulatto
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = cajun
+		religion = catholic
+		size = 2500
+	}
+	farmers = {
+		culture = north_german
+		religion = protestant
+		size = 2500
+	}
+}
+3329 = {
+	farmers = {
+		culture = afro_antillean
+		religion = animist
+		size = 2500
+	}
+	farmers = {
+		culture = bakongo
+		religion = animist
+		size = 770
+	}
+	farmers = {
+		culture = native_american_minor
+		religion = animist
+		size = 230
+	}
+}
+3330 = {
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 12500
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 250
+	}	
+	farmers = {
+		culture = persian
+		religion = shiite
+		size = 425
+	}
+}
+3331 = {
+
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 2500
+	}
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 1000
+	}
+}
+
+3339 = {
+	aristocrats = {
+		culture = caribeno
+		religion = catholic
+		size = 55
+	}
+	
+	clergymen = {
+		culture = caribeno
+		religion = catholic
+		size = 10
+	}
+
+	artisans = {
+		culture = caribeno
+		religion = catholic
+		size = 40
+	}
+
+	soldiers = {
+		culture = caribeno
+		religion = catholic
+		size = 5
+	}
+
+	farmers = {
+		culture = caribeno
+		religion = catholic
+		size = 4017
+	}
+
+	clergymen = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 4257
+	}
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 4500
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = cajun
+		religion = catholic
+		size = 250
+	}	
+}
+
+
+
+3302 = {
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 20000
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 250
+	}	
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 500
+	}
+}
+
+3306 = {
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 10500
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 250
+	}	
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 500
+	}
+	farmers = {
+		culture = afro_american
+		religion = protestant
+		size = 7500
+	}
+}
+
+#Aux-Cayes
+3307 = {
+	aristocrats = {
+		culture = mulatto
+		religion = catholic
+		size = 50 
+	}
+
+	bureaucrats = {
+		culture = mulatto
+		religion = catholic
+		size = 25 
+	}
+
+	officers = {
+		culture = mulatto
+		religion = catholic
+		size = 25 
+	}
+
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 80
+	}
+
+	artisans = {
+		culture = mulatto
+		religion = catholic
+		size = 300
+	}
+
+	soldiers = {
+		culture = mulatto
+		religion = catholic
+		size= 200
+	}
+
+	farmers = {
+		culture = mulatto
+		religion = catholic
+		size = 2500
+	}
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 20000
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 2500
+	}	
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 500
+	}
+}
+3320 = {
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 25000
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 2500
+	}	
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 500
+	}
+}
+
+3325 = {
+
+	clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 25000
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 2500
+	}	
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 500
+	} 
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 1750
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 250
+	}
+
+}
+
+2690 = {
+
+clergymen = {
+		culture = mulatto
+		religion = catholic
+		size = 750
+	}
+	
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 10500
+	}
+	
+	artisans = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
+
+	farmers = {
+		culture = saint_domingais
+		religion = catholic
+		size = 250
+	}	
+	soldiers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 500
+	}
+
+}
+
+3286 = {
+
+	farmers = {
+		culture = amhara
+		religion = coptic
+		size = 1750
+	}
+	farmers = {
+		culture = swahili
+		religion = sunni
+		size = 250
 	}
 }

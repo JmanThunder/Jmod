@@ -4,25 +4,25 @@
 1982 = {
 	aristocrats = {
 		culture = bakongo
-		religion = animist
+		religion = catholic
 		size = 6175
 	}
 	
 	bureaucrats = {
 		culture = bakongo
-		religion = animist
+		religion = catholic
 		size = 700
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = animist
+		religion = catholic
 		size = 3575
 	}
 
 	artisans = {
 		culture = bakongo
-		religion = animist
+		religion = catholic
 		size = 10000
 	}
 	
@@ -60,13 +60,13 @@
 1983 = {
 	aristocrats = {
 		culture = bakongo
-		religion = animist
+		religion = catholic
 		size = 640
 	}
 
 	clergymen = {
 		culture = bakongo
-		religion = animist
+		religion = catholic
 		size = 365
 	}
 

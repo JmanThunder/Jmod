@@ -1,5 +1,5 @@
-color = { 139  179  207 }
-graphical_culture = Generic
+color = { 57  113  228 }
+graphical_culture = Haitian
 party = {
 	name = "HAI_conservative"
 	start_date = 1830.1.1
@@ -62,7 +62,7 @@ party = {
 
 party = {
 	name = "HAI_socialist"
-	start_date = 1848.1.1
+	start_date = 1838.1.1
 	end_date = 2000.1.1
 
 	ideology = socialist

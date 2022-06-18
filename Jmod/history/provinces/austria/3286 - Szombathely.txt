@@ -1,6 +1,6 @@
-owner = AUS
-controller = AUS
-add_core = HUN
+owner = HAI
+controller = HAI
+add_core = HAI
 trade_goods = fruit
 life_rating = 35
-1861.1.1 = { railroad = 3 }
+fort = 1

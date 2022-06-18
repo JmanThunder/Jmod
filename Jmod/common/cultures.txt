@@ -1401,6 +1401,24 @@ central_asian = {
 south_asian = {
 	leader = indian
 	unit = IndianGC
+	hindi = {
+        color = {255 140 0}
+        first_names = { Maharshi Mahavira Ashtravakra Chanakya Ashoka Samudragupta Vachaspati Vatsyayana Asvaghosa Udayanacharaya Mohandas Narenda 
+        Dalbir Bipin Subrata Amarjeet Sanijv Ravi Praveen Surinder Balwant Sarath Amit Bimal Kumar Ranbir Manoj Suresh Sunil Sushila Meena Velu Aniruddha
+        Shokin Ashwani Ashok Abhay Devraj Rudramurti Punita Anand Dipankar Ramnath Bahadur Atan Syed Kesur Bana Chain Ganga Gian Jadunath Mukund Surinder 
+        Triveni Varinder Sonam Ram Yogendra
+        }
+        last_names = { Singh Valmiki Janak Jarasandh Mishra Neru Gandhi Modi Singh Suhag Rawat Hira Saha Sharma Nimbhorkar Talwar Thoge Hooda Bakshi Negi
+        Hariz Chand Soni Verma Reddy Gupta Cheema Prasad Bharali Shivane Unni Sarin Patyal Chakravarty Bali Datta Naravane Chavan Chandra Bandyopadhyay
+        Krishna Pannu Ambre Ahir Varadarajan Wangchuk Yadav 
+        }
+    }
+    urdu = {
+        color = { 0 100 0 }
+        first_names = { Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur Syad Ahmad Muhammed Aga Nawab Maulvi 
+       	Karamat Abdul Nasir Maulana Ibraheem Bhai Hussain Malik Raees Choudhry Rahmat }
+        last_names = { Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj Khan Ali Malik Nabiullah Sadiq Shafi Pirbhai Ahmed Baig Johar  }
+    }
 	assamese = {
 		color = {112 134 156}
 		first_names = { Chandraka Purandar Ruchinath Kaganath Dhekial Jogeshwar Sudingphaa Kamaleswar Daman Hao Jama Patalang
@@ -2150,14 +2168,6 @@ neo_european_cultures = {
 		last_names = { Grey Elliot Hamilton Gordon Stanley Campbell Ross Windham Young Doyle Hastings Blackwood MacDougall Currie Otter Steele McNaughton Macdonell Alderson Hughes Byng Simonds Mercer Lipsett Watson Mackenzie Crerar
 		}
 	}
-	french_canadian = { 
-		color = {168 195 255}
-		first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
-		}
-		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
-		}
-		radicalism = 10
-	}
 	alaskan = {
 		color = { 14 139 80 }
 			first_names = {Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
@@ -2170,7 +2180,16 @@ neo_european_cultures = {
 				Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich Vorontsov Voroshilov Zavoyko
 		}
 	}
-	
+}
+neo_french = {
+	french_canadian = { 
+		color = {168 195 255}
+		first_names = { Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
+		}
+		last_names = { Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
+		}
+		radicalism = 10
+	}
 	neo_zelandais = { 
 		color = {209 232 255}
 		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
@@ -2200,6 +2219,32 @@ neo_european_cultures = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
+
+	saint_domingais = {
+		color = { 0  0  153 }
+		first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+			Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+			François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+			Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+			Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas 
+			Adolphe Alain Alphonse Athanase Auguste-Real Charles Charles-Seraphin Denis-Benjamin Dionel Elzear
+			Etienne-Paschal Francois-Edouard George-Etienne Georges Gilles Guillaume Guillaume-Alphonse Hector-Louis Henri Hermenegilde 
+			Honore Jacques Jean Jean-Baptiste Jean-Docile Jean-Paul Joseph Joseph-Oscar Joseph-Remi Laurent-Olivier Leandre Louis-Adelard 
+			Louis-Joseph Louis-Olivier Louis-Philippe Louis-Rodrigue Marcel Mathieu Michel Narcisse-Fortunat Napoleon Olivier Olivier-Napoleon 
+			Pierre Pierre-Aurele Pierre-Stanislas Rene-Edouard Simon-Napoleon Telesphore Theodore Theophile Ulric-Joseph Valmont
+		}
+		
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+			Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+			"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+			Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+			Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant Bedard Bellemare Cartier David Papineau Surrette
+			Alleyn Angers Asselin Babineau Belleau Bourassa Brosseau Cauchon Dumouchel Duval Faucher Fremont Gallant Garneau Hamel Hebert Jalbert Langelier 
+			Langevin Laviolette Leblanc Lemesurier Loughry Marchand Masson Meloche Mercier Morrin Nantel Ouimet Painchaud Parent Peladeau Pellerin Robitaille 
+			Rodier Ross Senecal Simard Tache Taillon Tanguay Tessier Vallieres Viger
+		}
+	}
+
 	cajun = { 
 		color = {3 128 184}
 		first_names = { Onufre Amédée Arna Barthalame Bienvenu Boudreaux Comeaux Dar Gaudet Lézin Louis Onézime Rivet Theotis Thibodeaux Azaire Beausoleil Daqué Iry Léontel Pognon Soulougue Albin Bruno Thibaut Aristide Odeo Papite Theophile Placide
@@ -2222,8 +2267,8 @@ neo_european_cultures = {
 		Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
 		Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant }
 	}
-	
 }
+	
 
 latin_american_cultures = {
 	leader = southamerican
@@ -2343,6 +2388,26 @@ latin_american_cultures = {
 		Pena Pessoa Pinto Rondon "Saldanha da Gama" Santos Soares Tavares Vargas Wandenkolk
 		}
 	}
+	dominican_white_spanish = { 
+		
+		color = { 238 203 173 }
+
+		first_names = { Agustín Antonio Atanasio Baltasar Bartolomé Bernardino Bernardo Cándido Carlos Cecilio Cirilo Claudio Domingo Emiliano Esteban
+		Eugenio Evaristo Facundo Faustino Feliciano Félix Francisco Fructuoso Gabriel Gaspar Guillermo Hipólito Ignacio José "Juan José" "Juan Manuel" 
+		"Juan Ramón" Julio Justo Lorenzo Luis Manuel Marcial Máximo Miguel Nicolás Patricio Pedro Ramón Roberto Roque Salvador Santiago Torcuato Venancio 
+		Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar
+		Gregorio Ignacio Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel Mariano Martín Melchor Miguel Nicolás Pablo
+		Pascual Pedro Porfirio Ramón Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano 
+		}
+
+		last_names = { Aguirre Avellaneda Báez Balcarce Bareiro Berro Brown Caballero Cruz "de Alvear" "de la Plaza" "de Rosas" "de Urquiza" Derqui Díaz Ellauri
+		Escobar Flores González Jovellanos Juárez Justo Latorre López Machaín Maza Meza Mitre Paz Pedernera Pellegrini Pereira Quintana Rivarola Rivera Roca "Rodríguez de Francia"
+		Rojas Rondeau Sáenz Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza
+		Caserta Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky 
+		"López de Santa Ana" Lozada "Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena"
+		Villa Woll Zapata Zaragoza Zuloaga 
+		}
+	}
 }
 
 african_diaspora_cultures = {
@@ -2373,11 +2438,18 @@ african_diaspora_cultures = {
 		color = {12 83 12}
 		first_names = { Antonio Armando Arsenio Arturo Bartolomé Carlos Dámaso Enrique Francisco Generoso
 		Guillermo Gumersindo Ignacio Israel Jacinto Jaime "José Celso" Juan Luciano Mario
-		Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo }
+		Máximo Nelson Nicolás Orestes Orlando Pedro Pío Ramón Rubén Wifredo
+		Afonso Aleixo Alexandre Anderson André Artur Cândido Carlos Denílson Djalma Félix Francisco Guilherme
+		Itamar João Joaquim Jorge José Kléber Leandro Luís Manuel Marco Marcos Maurício Mauro Nilo Procópio Ricardo Ronaldo
+		}
 	
 		last_names = { Albizu Barbosa Barreto Bauzá Díaz Egües Estupiñán Garay González Guillén
 		Gutiérrez Hurtado Jiménez Jorrín Lam Leyva López Maceo Moré Morel
-		Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa }
+		Peraza Pérez Piñeiro Pozo Repilado Rodríguez Santamaría Schomburg Valdés Villa
+		Aragão Assunçao Bahia Barbosa Borges "de Cruz e Sousa" "da Lima" "de Lima Barreto" 
+		"de Ouro" "de Sousa" "de Souza" "dos Reis" "dos Santos" Fidalgo Filho Gil Gomes "Machado de Assis"
+		Nunes Oliveira Otelo Paim Pandeiro Peçanha Pereira Pitanga Rodrigues Santos Silva Teixeira
+		}
 	}
 	afro_brazilian = {
 		color = {87 164 95}
@@ -2390,7 +2462,7 @@ african_diaspora_cultures = {
 		Otelo Paim Pandeiro Peçanha Pereira Pitanga Rodrigues Santos Silva Teixeira }
 	}
 	afro_antillean = { 
-		color = {24 44 49}
+		color = {19 37 58}
 		first_names = { Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
 			Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
 			Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
@@ -2403,6 +2475,42 @@ african_diaspora_cultures = {
 			Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
 			Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor }
 	}
+	mulatto = {
+        color = { 30 30 100 }
+        first_names = { Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin
+			Charles Daniel Denis Édouard Elie Éttiene Eugène Félicien Félix Fernand
+			François Frédéric Georges Guillaume Gustave Henri Hubert Hugo Jacques Jean
+			Joseph Jules Julien Lazare Léopold Leroy Louis Lucien Matthieu Michel
+			Napoléon Nicolas Patrice Paul Philippe Pierre Robert Thibaut Thierry Thomas 
+			Adolphe Alain Alphonse Athanase Auguste-Real Charles Charles-Seraphin Denis-Benjamin Dionel Elzear
+			Etienne-Paschal Francois-Edouard George-Etienne Georges Gilles Guillaume Guillaume-Alphonse Hector-Louis Henri Hermenegilde 
+			Honore Jacques Jean Jean-Baptiste Jean-Docile Jean-Paul Joseph Joseph-Oscar Joseph-Remi Laurent-Olivier Leandre Louis-Adelard 
+			Louis-Joseph Louis-Olivier Louis-Philippe Louis-Rodrigue Marcel Mathieu Michel Narcisse-Fortunat Napoleon Olivier Olivier-Napoleon 
+			Pierre Pierre-Aurele Pierre-Stanislas Rene-Edouard Simon-Napoleon Telesphore Theodore Theophile Ulric-Joseph Valmont
+			Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
+			Cincinnatus Dantès Demesvar Denys Emmanuel Eugène Fabre Faustin Florvil François
+			Guillaume Hannibal Henri Jacques Jean Jean-Baptiste Jean-Louis Jean-Pierre Jonathas Joseph
+			Léon Louis Louis-Eugène Louis-Joseph Lysius Michel Monpoint Nissage Nord Oreste
+			Philippe Pierre Simon Sténio Sylvain Tandredè Thomas Timoleón Tirésias Vilbrum
+			Narcisse René Èdouard Luc Letellier Théodore Louis Francois Auguste Joseph Pierre Luis-Phillippe Jean Gaspard Eugéne Èssioff Huguel Jean-Pierre Gilles
+		}
+		
+		last_names = { Anthoine "Baraguey d'Hilliers" Bazaine Billot Bonaparte Bosquet "Boué de Lapeyrère" Bouët-Willaumez Boulanger Bourbaki
+			Bugeaud Caillard Canrobert Courbet Cousin-Mountauban Davout "de Bourbon" "de Castellane" "de Castelnau" "de Gaulle" 
+			"de Langle de Cary" "de MacMahon" "de Montaignac" "de Saint Arnaud" d'Orleans Dubail Dubois Duchêne Dupetit-Thouars Exelmans
+			Foch Forey "Franchet d'Espèrey" Gallieni Gouraud Guillaumat Hamelin Harispe Hoche Humbert
+			Jaurès Joffre Lebouef Lyautey Murat "Ney d'Elchingen" Nivelle Péllissier Petain Vaillant Bedard Bellemare Cartier David Papineau Surrette
+			Alleyn Angers Asselin Babineau Belleau Bourassa Brosseau Cauchon Dumouchel Duval Faucher Fremont Gallant Garneau Hamel Hebert Jalbert Langelier 
+			Langevin Laviolette Leblanc Lemesurier Loughry Marchand Masson Meloche Mercier Morrin Nantel Ouimet Painchaud Parent Peladeau Pellerin Robitaille 
+			Rodier Ross Senecal Simard Tache Taillon Tanguay Tessier Vallieres Viger
+			Alexis Ardouin Auguste Bellegarde Boisrond-Canal Bonnet Borno Boyer Brutus Christophe
+			Conzé Dartiguenave Delorme Dessalines Domingue Firmin Geffrad Granville Guerrier Hyppolite
+			Iginac Janvier Jeune Lafontant Laleau Leconte Légitime Legouaze Léon Lhérisson
+			Madiou Péralte Pierrot Planchet Price Price-Mars Riché Rigaud Rivière-Hérard Roumain
+			Roy Saget Salnave Salomon Sam Simon Soulouque Théodore Vincent Zamor
+			Belleau Caron "de St.-Just" Robitaille Masson Angers Chapleau Jotte Pantaléon Langelier Damasne LeBlanc Brodeur Perodeau
+		}
+    }
 	kreol = { 
 		color = { 63 32 10 }
 		first_names = { Alexis André Anténor Antoine Augustin Balthazar Beaubrun Céligny Charlemagne Charles
