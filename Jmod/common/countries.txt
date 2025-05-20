@@ -85,7 +85,8 @@ URM		="countries/Urmia.txt"
 HEH		="countries/Hesse-Homburg.txt"
 VOJ		="countries/Vojvodina.txt"
 CUO		="countries/Couto Misto.txt"
-
+REW		="countries/Rewah.txt"
+GEN 	="countries/Genoa.txt"
 
 ###Colonial Spain Countries
 CGC 	= "countries/Colonial Chile.txt"
