@@ -34,26 +34,20 @@ political_decisions = {
 			clr_country_flag = country_looking_through_options
 		}
 	}
-	
-	vassal_interactions = {
-        picture = gtfo
-        alert = no
-        potential = {
+
+	option_disable_colonial_railroading = {
+		alert = no
+		potential = {
 			ai = no
-            num_of_vassals_no_substates = 1
-            is_vassal = no
-        }
-        allow = { civilized = yes }
-        effect = {
-			random_country = {
-				limit = {
-					exists = yes
-					vassal_of = THIS
-				}
-				country_event = 477877793
-			}
+			has_country_flag = country_looking_through_options
+			NOT = { year = 1837 }
+			NOT = { has_global_flag = colonial_railroading_disabled }
 		}
-    }
+		allow = {}
+		effect = {
+			set_global_flag = colonial_railroading_disabled
+		}
+	}
 	
 	option_disable_anarcho_liberals = {
 		alert = no
@@ -2759,13 +2753,6 @@ political_decisions = {
 						duration = -1
 					}
 				}
-			}
-			random_country = {
-				limit = {
-					exists = yes
-					ai = yes
-				}
-				country_event = 477877789
 			}
 		}
 	}

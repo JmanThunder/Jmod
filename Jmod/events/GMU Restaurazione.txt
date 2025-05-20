@@ -2008,7 +2008,10 @@ country_event = {
 		year = 1859
 		NOT = { year = 1900 }
 		has_global_flag = Mameli
-		ITA = { has_country_flag = atworldfair }
+		OR = {
+			ITA = { has_country_flag = atworldfair }
+			ITS = { has_country_flag = atworldfair }
+		}
 		OR = { 
 			FRA = { has_country_flag = atworldfair }
 			BOR = { has_country_flag = atworldfair }
@@ -2447,7 +2450,10 @@ country_event = {
 	picture = "Foscolo"
 
 	trigger = {
-		tag = ITA
+		OR = {
+			tag = ITA
+			tag = ITS
+		}
 		owns = 749
 		owns = 744
 		war = no
@@ -2505,6 +2511,10 @@ country_event = {
 				who = ITA
 				value = 25
 		}
+		relation = {
+				who = ITS
+				value = 25
+		}
 		ai_chance = {
 			factor = 80
 			modifier = {
@@ -2512,11 +2522,21 @@ country_event = {
 				truce_with = ITA
 			}
 			modifier = {
+				factor = 0.5
+				truce_with = ITS
+			}
+			modifier = {
 				factor = 0
 				NOT = {
-				   relation = {
-							who = ITA
-							value = 1
+				   OR = {
+					   relation = {
+								who = ITA
+								value = 1
+						}
+						relation = {
+								who = ITS
+								value = 1
+						}
 					}
 				}
 			}
@@ -2532,6 +2552,10 @@ country_event = {
 				who = ITA
 				value = -50
 		}
+		relation = {
+			who = ITS
+			value = -50
+		}
 		ai_chance = { factor = 20 }
 	}
 }
@@ -2545,7 +2569,10 @@ country_event = {
 	picture = "Foscolo"
 
 	trigger = {
-		tag = ITA
+		OR = {
+			tag = ITA
+			tag = ITS
+		}
 		has_global_flag = Foscolo_denied
 	}
 
@@ -2575,7 +2602,10 @@ country_event = {
 	picture = "Foscolo"
 
 	trigger = {
-		tag = ITA
+		OR = {
+			tag = ITA
+			tag = ITS
+		}
 		has_global_flag = Foscolo_returns
 	}
 
@@ -2624,7 +2654,16 @@ country_event = {
 		name = "Well, I should make a call."
                 prestige = 5
                 USA = { country_event = 202043 }
-                ITA = { country_event = 202044 }
+                random_country = {
+					limit = {
+						exists = yes
+						OR = {
+							tag = ITA
+							tag = ITS
+						}
+					}
+					country_event = 202044
+				}
                 years_of_research = 0.12
 	}
 
@@ -2675,7 +2714,10 @@ country_event = {
 	picture = "Turin"
 
 	trigger = {
-                tag = ITA
+               OR = {
+					tag = ITA
+					tag = ITS
+				}
                 owns = 720
                 money = 20000
                 year = 1877
@@ -2716,7 +2758,10 @@ country_event = {
 	picture = "Macchi"
 
 	trigger = {
-		tag = ITA
+		OR = {
+			tag = ITA
+			tag = ITS
+		}
 		has_country_flag = porco_rosso
 		year = 1934
 		aeronautics = 1
@@ -2807,6 +2852,10 @@ country_event = {
 				tag = ITA
 			}
 			modifier = {
+				factor = 1.5
+				tag = ITS
+			}
+			modifier = {
 				factor = 1.4
 				tag = AUS
 			}
@@ -2877,7 +2926,11 @@ country_event = {
 				factor = 0
 				tag = ITA
 			}
-                }
+			modifier = {
+				factor = 0
+				tag = ITS
+			}
+        }
 	}
 
 }
@@ -2931,7 +2984,10 @@ country_event = {
 	trigger = {       
                 year = 1887
                 NOT = { year = 1907 }
-                tag = ITA
+                OR = {
+					tag = ITA
+					tag = ITS
+				}
                 realism = 1
 	}
 
@@ -2977,7 +3033,10 @@ country_event = {
 
 	trigger = {       
                 has_country_flag = guerra_di_libia
-                tag = ITA
+                OR = {
+					tag = ITA
+					tag = ITS
+				}
                 realism = 1
                 NOT = { year = 1913 }
 	}
@@ -3021,7 +3080,10 @@ country_event = {
 	picture = "Dannunzio"
 
 	trigger = {       
-                tag = ITA
+                OR = {
+					tag = ITA
+					tag = ITS
+				}
                 impressionism = 1
                 anti__rationalism = 1
                 aeronautics = 1
@@ -3163,7 +3225,10 @@ country_event = {
 
 	trigger = {       
                 year = 1890
-                tag = ITA 
+                OR = {
+					tag = ITA 
+					tag = ITS
+				}
                 realism = 1
 	}
 
@@ -3189,7 +3254,10 @@ country_event = {
 
 	trigger = {       
                 year = 1916
-                tag = ITA 
+                OR = { 
+					tag = ITA 
+					tag = ITS
+				}
                 impressionism = 1
 	}
 
@@ -3215,7 +3283,10 @@ country_event = {
 
 	trigger = {       
                 year = 1926
-                tag = ITA 
+               OR = {
+					tag = ITA 
+					tag = ITS
+				}
                 mass_culture_n_the_avant_garde = 1
 	}
 
@@ -3243,7 +3314,10 @@ country_event = {
 		year = 1871
 		NOT = { year = 1900 }
 		tag = EGY
-		exists = ITA
+		OR = {
+			exists = ITA
+			exists = ITS
+		}
 		is_canal_enabled = 2
 	}
 
@@ -3256,7 +3330,16 @@ country_event = {
 	option = {
 		name = "A triumphal march for Egyptian culture!"
 		prestige = 5
-		ITA = { country_event = 202060 }
+		random_country = {
+			limit = {
+				exists = yes
+				OR = {
+					tag = ITA
+					tag = ITS
+				}
+			country_event = 202060
+			}
+		}
 	}
 }
 
@@ -3362,7 +3445,10 @@ country_event = {
 	trigger = {       
 		year = 1874
 		NOT = { year = 1900 }
-		tag = ITA
+		OR = {
+			tag = ITA
+			tag = ITS
+		}
 		has_global_flag = Manzoni
 		NOT = { has_country_flag = verdis_requiem }
 	}

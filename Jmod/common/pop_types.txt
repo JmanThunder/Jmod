@@ -642,6 +642,12 @@ migration_chance = {
 		THIS = { has_pop_culture = afro_american }
 		country = { slavery = no_slavery }
 	}
+	
+	modifier = {
+		factor = 10
+		THIS = { has_pop_culture = afro_american }
+		country = { tag = NAF }
+	}
 		
 	modifier = {
 		factor = 10

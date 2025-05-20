@@ -1031,6 +1031,7 @@ political_decisions = {
 			year = 1840
 			3251 = { NOT = { trade_goods = precious_goods } }
 			NOT = { has_country_flag = monte_carlo_casino }
+			NOT = { has_global_flag = sack_monaco }
 		}
 		
 		allow = {
@@ -2375,7 +2376,10 @@ political_decisions = {
 		picture = san_marino
 		potential = {
 			tag = SMR
-			exists = ITA
+			OR = {
+				exists = ITA
+				exists = ITS
+			}
 			NOT = { has_country_flag = san_marino_question }
 		}
 		
@@ -2385,7 +2389,15 @@ political_decisions = {
 		
 		effect = {
 			set_country_flag = san_marino_question
-			ITA = { country_event = 330403 }
+			random_country = { 
+				limit = {
+					OR = {
+						tag = ITA
+						tag = ITS
+					}
+				}
+				country_event = 330403 
+			}
 		}
 		ai_will_do = { factor = 1 }
 	}

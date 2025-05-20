@@ -1452,20 +1452,3 @@ artisan_fertilizer = {
 	
 	workforce = 10000
 }
-
-artisan_fabric_wool = {
-	input_goods = {     
-		wool = 25 #46
-		dye = 2	#24
-	}
-	output_goods = fabric
-	value = 40			#81
-	owner = {
-		poptype = artisans 
-		effect = output
-	}
-	
-	type = artisan
-	
-	workforce = 10000
-}
